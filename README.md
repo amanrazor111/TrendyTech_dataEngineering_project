@@ -1,0 +1,2 @@
+# TrendyTech_dataEngineering_project
+Trendy_tech data engineering project code
